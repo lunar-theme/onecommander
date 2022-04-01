@@ -1,12 +1,12 @@
 <h1 align='center'> One-Commander-Paper-Theme</h1>
 
-![](https://i.imgur.com/JOrCYqp.png)
+![](https://i.imgur.com/m9u0OTW.jpg)
 
 ## ⁉ What is this
 
 A theme for [one commander](http://www.onecommander.com) app.
  
-Based on [Paper theme by niivu](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette...
+Based on [Luanr theme by sheeepdev](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette...
  
 Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
@@ -17,9 +17,9 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 ### For the Theme
 
 
-- copy "Paper" folder in "The Theme" folder.
+- copy "Luanr" folder in "The Theme" folder.
 
-![Image](https://i.imgur.com/IwSwTKg.png)
+![Image](https://i.imgur.com/p9GgQe5.jpg)
 
 - paste in **"OneCommander folder"\Themes**
 
@@ -27,39 +27,39 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 ### For the Folder Icons
 
 
-![Image](https://i.imgur.com/tFLajwz.png)
+![Image](https://i.imgur.com/EVQ5qqt.png)
 ---
-- copy "Paper" folder in "FolderIcons" folder.
+- copy "luanr" folder in "FolderIcons" folder.
 
-![Image](https://i.imgur.com/3MrfpS1.png)
+![Image](https://i.imgur.com/zg6839l.jpg)
 
 - paste in **"OneCommander folder"\Resources\FolderIcons**
 
 ---
 ### For the Main Folder Icon
 
-![Image](https://i.imgur.com/2422uV9.png)
+![Image](https://i.imgur.com/U12aZ1p.png)    ![Image](https://i.imgur.com/oVCZ4LJ.png)
 
-- copy the *png* file in "MainFolderIcon" folder.
+- copy the *png* files in "MainFolderIcon" folder.
 
-![Image](https://i.imgur.com/Ak1gb6U.png)
+![Image](https://i.imgur.com/SliqlSz.jpg)
 
 - paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
 ## 👍 Recommended extensions and styles
 
 
-🍀 If you want to make your discord app has a Paper look, here is a theme i made: [Translucence Paper Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
+🍀 If you want to make your discord app has a lunaric look, here is a theme i made: [Translucence Luanr Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
 
-⚜ And if you want to get an Paper cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
+⚜ And if you want to get an Lunar cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
 
-🚥 And here is a Dock icons with that paper look: [Paper-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
+🚥 And here is a Dock icons with that lunaric look: [Lunar-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
 
-🎴 And here is 45 wallpaper to complete your Paper setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
+🎴 And here is some wallpapers to complete your lunaric setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
 
-🎨 And don't forget Google Chrome, here is a theme for chrome: [Paper-Chrome](https://github.com/Abod1960/Paper-Chrome).
+🎨 And don't forget Google Chrome, here is a theme for chrome: [Luanr-Chrome](https://github.com/Abod1960/Paper-Chrome).
 
-➰ If you are using Ueli here is a theme for Ueli: [Paper-Ueli](https://github.com/Abod1960/Paper-Ueli).
+➰ If you are using Ueli here is a theme for Ueli: [Lunar-Ueli](https://github.com/Abod1960/Paper-Ueli).
 
 ▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
 
