@@ -1,17 +1,26 @@
-<h1 align='center'> One-Commander-Lunar-Theme</h1>
+<p align="center">
+    <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" />
+    <h2 align="center">Lunar for One Commander</h2>
+</p>
 
-![](https://i.imgur.com/m9u0OTW.jpg)
+<p align="center">A minimal black and blue color scheme inspired by space 🚀</p>
 
-## ⁉ What is this
+##  Description
 
-A theme for [one commander](http://www.onecommander.com) app.
+A space inspired theme for [One Commander](http://www.onecommander.com).
  
+<<<<<<< Updated upstream
 Based on [Luanr theme](https://github.com/lunar-theme) by @sheeepdev color palette...
  
 Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
  
 ## 🧾 Instructions
+=======
+Actually, this is a recolored version of "dark theme by Milos Paripovic", based on [Lunar](https://lunar-theme.github.io) color palete.
+
+## Usage
+>>>>>>> Stashed changes
 
 
 ### For the Theme
@@ -46,49 +55,29 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 - paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
-<!--in the future, maybe>
-## 👍 Recommended extensions and styles
+## Gallery
+
+![Lunar with App](https://i.imgur.com/m9u0OTW.jpg)
+
+## Team
+
+This theme is maintained by the following persons and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
+
+[![sheep](https://avatars.githubusercontent.com/u/68562536?v=4)](https://github.com/sheeepdev) |
+--- |
+[sheep](https://github.com/sheeepdev) |
 
 
-🍀 If you want to make your discord app has a lunaric look, here is a theme i made: [Translucence Luanr Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
-
-⚜ And if you want to get an Lunar cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
-
-🚥 And here is a Dock icons with that lunaric look: [Lunar-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
-
-🎴 And here is some wallpapers to complete your lunaric setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
-
-🎨 And don't forget Google Chrome, here is a theme for chrome: [Luanr-Chrome](https://github.com/Abod1960/Paper-Chrome).
-
-➰ If you are using Ueli here is a theme for Ueli: [Lunar-Ueli](https://github.com/Abod1960/Paper-Ueli).
-
-▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
-<!-->
-## ✏ Author
-
-🕴 **Abod1960**
-
-* 🌐 Website: [abod1960.unaux.com](https://abod1960.github.io/My-Website/?i=1)
-* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
-* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
-*  ✉ Gmail: abod1960.work@gmail.com
-*   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
-*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
-
-
-## 🌟 Show your support
-
-Give a ⭐️ if you like this project!<br>
-Also you can support me buying this on [gumroad](https://gum.co/irTbV)
-
-## 📝 Note
+##  Note
 
 colors are adjustable<br>
 you can edit with your own preferences 
 
-## 📩 License
+##  License
 
 Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
 This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Paper-Theme/blob/main/LICENSE) license.
+
+
 
 
