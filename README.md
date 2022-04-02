@@ -29,7 +29,7 @@ Actually, this is a recolored version of "dark theme by Milos Paripovic", based 
 
 ![Image](https://i.imgur.com/EVQ5qqt.png)
 ---
-- Copy "luanr" folder in "FolderIcons" folder.
+- Copy the "lunar" folder in the "FolderIcons" folder.
 
 ![Image](https://i.imgur.com/zg6839l.jpg)
 
