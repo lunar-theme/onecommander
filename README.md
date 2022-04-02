@@ -1,4 +1,4 @@
-<h1 align='center'> One-Commander-Paper-Theme</h1>
+<h1 align='center'> One-Commander-Lunar-Theme</h1>
 
 ![](https://i.imgur.com/m9u0OTW.jpg)
 
@@ -6,7 +6,7 @@
 
 A theme for [one commander](http://www.onecommander.com) app.
  
-Based on [Luanr theme by sheeepdev](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette...
+Based on [Luanr theme by sheeepdev](https://github.com/lunar-theme) color palette...
  
 Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
@@ -46,6 +46,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 - paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
+<!--in the future, maybe>
 ## 👍 Recommended extensions and styles
 
 
@@ -62,7 +63,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 ➰ If you are using Ueli here is a theme for Ueli: [Lunar-Ueli](https://github.com/Abod1960/Paper-Ueli).
 
 ▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
-
+<!-->
 ## ✏ Author
 
 🕴 **Abod1960**
