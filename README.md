@@ -14,60 +14,54 @@ Actually, this is a recolored version of "dark theme by Milos Paripovic", based 
 ## Usage
 
 
-### For the Theme
+### Theme
 
 
-- copy "Luanr" folder in "The Theme" folder.
+- Copy the "Theme/Lunar" folder.
 
 ![Image](https://i.imgur.com/p9GgQe5.jpg)
 
-- paste in **"OneCommander folder"\Themes**
+- Paste it to **"OneCommander Folder"\Themes**
 
 ---
-### For the Folder Icons
+### Folder Icons
 
 
 ![Image](https://i.imgur.com/EVQ5qqt.png)
 ---
-- copy "luanr" folder in "FolderIcons" folder.
+- Copy "luanr" folder in "FolderIcons" folder.
 
 ![Image](https://i.imgur.com/zg6839l.jpg)
 
-- paste in **"OneCommander folder"\Resources\FolderIcons**
+- Paste it to **"OneCommander Folder"\Resources\FolderIcons**
 
 ---
-### For the Main Folder Icon
+### Main Folder Icon
 
 ![Image](https://i.imgur.com/U12aZ1p.png)    ![Image](https://i.imgur.com/oVCZ4LJ.png)
 
-- copy the *png* files in "MainFolderIcon" folder.
+- Copy the *png* files from the "MainFolderIcon" folder.
 
 ![Image](https://i.imgur.com/SliqlSz.jpg)
 
-- paste in **OneCommander"folder"\Resources\MainFolderIcon**
+- Paste them to **OneCommander Folder\Resources\MainFolderIcon**
 
 ## Gallery
 
-![Lunar with App](https://i.imgur.com/m9u0OTW.jpg)
+![Lunar for OneCommander](https://i.imgur.com/m9u0OTW.jpg)
 
 ## Team
 
 This theme is maintained by the following persons and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
 
-[![sheep](https://avatars.githubusercontent.com/u/68562536?v=4)](https://github.com/sheeepdev) |
+[![Abod1960](https://avatars.githubusercontent.com/u/79435005?v=4)](https://github.com/Abod1960) |
 --- |
-[sheep](https://github.com/sheeepdev) |
+[Abod1960](https://github.com/Abod1960) |
 
+## License
 
-##  Note
-
-colors are adjustable<br>
-you can edit with your own preferences 
-
-##  License
-
-Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
-This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Paper-Theme/blob/main/LICENSE) license.
+Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br />
+This project is licensed under the [GPL-3.0](https://github.com/lunar-theme/onecommander/blob/main/LICENSE) license.
 
 
 
