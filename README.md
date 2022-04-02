@@ -9,18 +9,9 @@
 
 A space inspired theme for [One Commander](http://www.onecommander.com).
  
-<<<<<<< Updated upstream
-Based on [Luanr theme](https://github.com/lunar-theme) by @sheeepdev color palette...
- 
-Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
- 
- 
-## 🧾 Instructions
-=======
 Actually, this is a recolored version of "dark theme by Milos Paripovic", based on [Lunar](https://lunar-theme.github.io) color palete.
 
 ## Usage
->>>>>>> Stashed changes
 
 
 ### For the Theme
