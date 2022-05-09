@@ -50,13 +50,19 @@ Actually, this is a recolored version of "dark theme by Milos Paripovic", based 
 
 ![Lunar for OneCommander](https://i.imgur.com/m9u0OTW.jpg)
 
-## Team
+## Contributors
 
+<<<<<<< HEAD
 This theme is maintained by the following persons and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
 
 <a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
 --- |
 <a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
+=======
+<a href="https://github.com/lunar-theme/onecommander/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lunar-theme/onecommander" />
+</a>
+>>>>>>> d1f0774 (✨ Updates to contributors)
 
 ## License
 
